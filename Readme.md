@@ -1,3 +1,5 @@
+# Requirement Analysis in Software development
+A documentation of what requirement anaysis is and .how it is done
 
 # What is Requirement Analysis?
 Requirement Analysis focuses on crafting a comprehensive foundation for software development by documenting, analyzing, and structuring requirements.
@@ -98,3 +100,29 @@ Use Cases:
 - View Reports (Admin)
 
 [Booking management system use case](alx-booking-uc.png)
+
+# Acceptance Criteria
+What Are Acceptance Criteria?
+Acceptance Criteria (AC) are the specific, measurable conditions that a software feature must meet to be accepted by stakeholders or end-users.
+
+Importance of Acceptance Criteria in Requirement Analysis
+- Clarifies Expectations: Ensures developers and stakeholders share a clear understanding of how a feature should behave.
+- Guides Testing: Provides the foundation for creating test cases, making it easier to verify that the system meets user needs.
+- Reduces Miscommunication: Minimizes ambiguity by translating business requirements into testable, actionable statements.
+- Defines “Done”: Helps teams know exactly when a feature is complete and ready for release.
+- Prevents Rework: By setting clear goals upfront, it avoids misunderstandings that could lead to costly changes later.
+
+Example: Acceptance Criteria for the “Checkout” Feature
+
+Feature Description:
+The Checkout feature allows a user to confirm and pay for their booking in the Booking Management System.
+
+Acceptance Criteria:
+- The system must allow users to review their booking details (date, time, price, and service type) before confirming.
+- The system must provide secure payment options (e.g., credit card, mobile money, or PayPal).
+- Users must receive a confirmation message after successful payment.
+- he system must update the booking status to “Confirmed” upon payment completion.
+- If a payment fails, the system should display an error message and allow the user to retry or cancel.
+- The system must generate and email a digital receipt to the user within 1 minute of payment confirmation.
+
+
