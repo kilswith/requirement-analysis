@@ -43,6 +43,29 @@ Clear requirements lead to better functionality, usability, and performance, whi
 - Includes reviews, walkthroughs, and prototype demonstrations to confirm understanding.
 - Prevents costly rework by verifying that the system is being built right from the start.
 
+# Types of Requiremnets
+1. Functional Requirements
+Functional requirements describe what the system should do — the specific behaviors, functions, and operations it must perform.
+They define the core features and interactions that deliver value to users.
+
+Examples:
+- Users should be able to create, view, modify, and cancel bookings.
+- The system must allow searching for available rooms or services by date and category.
+- Admins should be able to add, edit, or remove available slots or resources.
+- The system should send booking confirmations and reminders via email or SMS.
+- Users should be able to make secure online payments for confirmed bookings.
+
+⚙️ 2. Non-functional Requirements
+Non-functional requirements describe how the system should perform, rather than what it does.
+They define quality attributes like performance, security, usability, and reliability.
+
+Examples:
+- The system should load all pages within 3 seconds under normal network conditions.
+- All user data must be encrypted and stored securely in compliance with data protection standards.
+- The website should be accessible 24/7 with 99.9% uptime.
+- The application must support up to 10,000 concurrent users without performance degradation.
+- The user interface should be responsive and mobile-friendly, ensuring smooth navigation on all devices.
+
 
 
 
