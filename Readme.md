@@ -17,7 +17,31 @@ It’s much cheaper to correct misunderstandings during the planning stage than 
 Through proper analysis, developers can design systems that meet user needs and business goals effectively.
 Clear requirements lead to better functionality, usability, and performance, which means happier end users.
 
+# Key activities in Requirement Analysis
+1. Requirement Gathering
+- Involves collecting information about what users and stakeholders expect from the system.
+- Common methods include interviews, surveys, observation, and document review.
+- The main goal is to understand user needs and project goals clearly.
 
+2. Requirement Elicitation
+- Focuses on refining and elaborating the gathered requirements.
+- Uses techniques such as brainstorming, prototyping, and focus group discussions.
+- Helps uncover hidden or unstated requirements that stakeholders might not initially express.
+
+3. Requirement Documentation
+- Converts gathered information into structured documents like the Software Requirements Specification (SRS) or use case diagrams.
+- Ensures that all stakeholders have a clear reference point for what the system will do.
+- Acts as a foundation for design, development, and testing phases.
+
+4. Requirement Analysis and Modeling
+- Involves examining requirements for feasibility, consistency, and completeness.
+- May include modeling techniques such as data flow diagrams (DFDs) or use case models to visualize system behavior.
+- Helps identify potential conflicts, dependencies, and risks early.
+
+5. Requirement Validation
+- Ensures that the documented requirements accurately represent stakeholder needs.
+- Includes reviews, walkthroughs, and prototype demonstrations to confirm understanding.
+- Prevents costly rework by verifying that the system is being built right from the start.
 
 
 
