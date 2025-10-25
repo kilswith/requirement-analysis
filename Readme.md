@@ -66,7 +66,33 @@ Examples:
 - The application must support up to 10,000 concurrent users without performance degradation.
 - The user interface should be responsive and mobile-friendly, ensuring smooth navigation on all devices.
 
+# Use Case Diagrams
+What Are Use Case Diagrams?
+A Use Case Diagram is a visual representation of the interactions between users (actors) and a system.
+It helps identify the functional requirements of a system from the user’s perspective, showing what the system does and who interacts with it.
 
+Benefits of Use Case Diagrams:
+- Clarifies System Scope: Helps define the system boundaries and what functions are included.
+- Improves Communication: Makes it easy for stakeholders and developers to discuss system functionality.
+- Supports Requirement Gathering: Ensures all user interactions are identified early in the project.
+- Foundation for Design: Acts as a starting point for creating detailed system models and workflows.
 
+Use Case Diagram for the Booking Management System
+Below is the conceptual outline for the Booking Management System use case.
+You can create this diagram using tools like Draw.io.
 
-# requirement-analysis
+Actors:
+- Customer – Books and manages their reservations.
+- Administrator – Manages bookings, schedules, and user accounts.
+- Payment Gateway – Handles secure online transactions.
+
+Use Cases:
+- Register / Login
+- Search Available Slots or Services
+- Create Booking
+- Modify / Cancel Booking
+- View Booking History
+- Make Payment
+- Receive Confirmation Notification
+- Manage Users and Resources (Admin)
+- View Reports (Admin)
