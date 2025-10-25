@@ -96,3 +96,5 @@ Use Cases:
 - Receive Confirmation Notification
 - Manage Users and Resources (Admin)
 - View Reports (Admin)
+
+[Booking management system use case](alx-booking-uc.png)
